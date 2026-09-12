@@ -2,14 +2,14 @@
 
 Patched Minecraft mods used in **Airships For Free** (Technic slug `airships-for-free` / working tree `jazz`).
 
-Each mod is its own git repo, forked from upstream, with Patrick’s changes on a named branch.
+Each mod is its own git repo, forked from upstream, with Patrick’s changes on `main`.
 
 ## Repos
 
-| Mod | Upstream | This fork | Branch with patches |
-|-----|----------|-----------|---------------------|
-| Eureka (Valkyrien Skies ships) | [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) | [patrck269/Eureka](https://github.com/patrck269/Eureka) | `fix/immersive-aircraft-ship-landing` |
-| c2meF (chunk threading) | [sj-hub9796/c2meF](https://github.com/sj-hub9796/c2meF) | [patrck269/c2meF](https://github.com/patrck269/c2meF) | `modified-shipyard-serialize` |
+| Mod | Upstream | This fork |
+|-----|----------|-----------|
+| Eureka (Valkyrien Skies ships) | [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) | [patrck269/Eureka](https://github.com/patrck269/Eureka) |
+| c2meF (chunk threading) | [sj-hub9796/c2meF](https://github.com/sj-hub9796/c2meF) | [patrck269/c2meF](https://github.com/patrck269/c2meF) |
 
 Clone with submodules:
 
