@@ -10,6 +10,7 @@ Each mod is its own git repo, forked from upstream, with Patrick’s changes on 
 |-----|----------|-----------|
 | Eureka (Valkyrien Skies ships) | [ValkyrienSkies/Eureka](https://github.com/ValkyrienSkies/Eureka) | [patrck269/Eureka](https://github.com/patrck269/Eureka) |
 | c2meF (chunk threading) | [sj-hub9796/c2meF](https://github.com/sj-hub9796/c2meF) | [patrck269/c2meF](https://github.com/patrck269/c2meF) |
+| Immersive Aircraft | [Luke100000/ImmersiveAircraft](https://github.com/Luke100000/ImmersiveAircraft) | [patrck269/ImmersiveAircraft](https://github.com/patrck269/ImmersiveAircraft) |
 
 Clone with submodules:
 

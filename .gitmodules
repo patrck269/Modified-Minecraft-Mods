@@ -6,3 +6,7 @@
 	path = c2meF
 	url = https://github.com/patrck269/c2meF.git
 	branch = main
+[submodule "ImmersiveAircraft"]
+	path = ImmersiveAircraft
+	url = https://github.com/patrck269/ImmersiveAircraft.git
+	branch = 1.20.1
