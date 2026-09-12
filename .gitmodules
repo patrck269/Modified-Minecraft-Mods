@@ -1,0 +1,8 @@
+[submodule "Eureka"]
+	path = Eureka
+	url = https://github.com/patrck269/Eureka.git
+	branch = fix/immersive-aircraft-ship-landing
+[submodule "c2meF"]
+	path = c2meF
+	url = https://github.com/patrck269/c2meF.git
+	branch = modified-shipyard-serialize
