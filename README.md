@@ -2,7 +2,7 @@
 
 Patched Minecraft mods used in **Airships For Free** (Technic slug `airships-for-free` / working tree `jazz`).
 
-Each mod is its own git repo, forked from upstream, with Patrick’s changes on a named branch. Local checkouts live under `Y:\Projects\AI Projects`.
+Each mod is its own git repo, forked from upstream, with Patrick’s changes on a named branch.
 
 ## Repos
 
